@@ -64,3 +64,6 @@ sudo pacman -S discord
 
 ## Steam ##
 sudo pacman -S steam
+
+## Remove unnecessary packages ##
+sudo pacman -R clementine firefox chromium-bsu
