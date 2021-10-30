@@ -10,5 +10,6 @@ EOL
 
 ## Update ##
 sudo pacman -Syyuu
+
 ## Install Xanmod Kernel ##
 sudo pacman -S linux-xanmod linux-xanmod-headers
