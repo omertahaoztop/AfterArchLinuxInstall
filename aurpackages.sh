@@ -1,9 +1,8 @@
 #!/bin/sh
 PKGS=(
     # Apps
-  'google-chrome'
+  'brave-bin'
   'spotify'
-  'electronplayer'
   'gitkraken'
   'rocketchat-desktop'
   'hypnotix'
